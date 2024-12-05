@@ -1,0 +1,96 @@
+	Hacker News new | past | comments | ask | show | jobs | submit	login
+1.	
+Diátaxis – A systematic approach to technical documentation authoring (diataxis.fr)
+255 points by OuterVale 8 hours ago | hide | 65 comments
+2.	
+Genie 2: A large-scale foundation world model (deepmind.google)
+1072 points by meetpateltech 22 hours ago | hide | 366 comments
+3.	
+They don't make them like that any more: the Yamaha DX7 keyboard (kevinboone.me)
+205 points by ingve 13 hours ago | hide | 120 comments
+4.	
+Bringing K/V context quantisation to Ollama (smcleod.net)
+174 points by mchiang 11 hours ago | hide | 20 comments
+5.	
+Sitters and Standers (pudding.cool)
+248 points by feross 15 hours ago | hide | 122 comments
+6.	
+Oscilloscope Music N-Spheres (oscilloscopemusic.com)
+60 points by webmaven 8 hours ago | hide | 10 comments
+7.	
+Show HN: Outerbase Studio – Open-Source Database GUI (github.com/outerbase)
+276 points by burcs 19 hours ago | hide | 115 comments
+8.	
+AI helps researchers dig through old maps to find lost oil and gas wells (lbl.gov)
+188 points by gnabgib 19 hours ago | hide | 68 comments
+9.		Humanloop (YC S20) Is Hiring Product Engineers in London and SF (humanloop.com)
+1 hour ago | hide
+10.	
+Native dual-range input (muffinman.io)
+195 points by Wolfr_ 18 hours ago | hide | 27 comments
+11.	
+My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback (armaansahni.com)
+1056 points by veesahni 1 day ago | hide | 427 comments
+12.	
+The story of Rogue (spillhistorie.no)
+219 points by gaws 22 hours ago | hide | 84 comments
+13.	
+Why America's economy is soaring ahead of its rivals (ft.com)
+357 points by kvee 1 day ago | hide | 1606 comments
+14.	
+Show HN: I combined spaced repetition with emails so you can remember anything (ginkgonotes.com)
+189 points by iskrataa 21 hours ago | hide | 70 comments
+15.	
+How close is AI to human-level intelligence? (nature.com)
+21 points by ororm 2 hours ago | hide | 36 comments
+16.	
+WASM-4: Build retro games using WebAssembly for a fantasy console (wasm4.org)
+96 points by peutetre 16 hours ago | hide | 17 comments
+17.	
+Move semantics in Rust, C++, and Hylo (lukas-prokop.at)
+53 points by tajpulo 7 hours ago | hide | 45 comments
+18.	
+VectorChord: Store 400k Vectors for $1 in PostgreSQL (pgvecto.rs)
+85 points by gaocegege 11 hours ago | hide | 24 comments
+19.	
+IMG_0001 (walzr.com)
+1688 points by walz 1 day ago | hide | 263 comments
+20.	
+Speeding up Ruby by rewriting C in Ruby (jpcamara.com)
+256 points by todsacerdoti 1 day ago | hide | 101 comments
+21.	
+How the Arpanet Protocols Worked (twobithistory.org)
+27 points by signa11 10 hours ago | hide | 5 comments
+22.	
+The Surprising New History of Horse Domestication (scientificamerican.com)
+11 points by Brajeshwar 5 hours ago | hide | 2 comments
+23.	
+Launch HN: Parsagon (YC W21) – AI for public affairs and government relations
+62 points by sand1929 20 hours ago | hide | 48 comments
+24.	
+Show HN: A 5th order motion planner with PH spline blending, written in Ada (prunt-docs.pages.dev)
+104 points by LiamPowell 22 hours ago | hide | 31 comments
+25.	
+Self-Funding Harberger Taxes (gwern.net)
+67 points by surprisetalk 20 hours ago | hide | 63 comments
+26.	
+The Hoare Cube (johnwickerson.wordpress.com)
+75 points by matt_d 19 hours ago | hide | 15 comments
+27.	
+AI hallucinations: Why LLMs make things up (and how to fix it) (kapa.ai)
+140 points by emil_sorensen 15 hours ago | hide | 145 comments
+28.	
+Interview with Dr. Ken Iverson (1982) (arraycast.com)
+63 points by tosh 20 hours ago | hide | 13 comments
+29.	
+The ambiguous witness of Dietrich Bonhoeffer (2014) (newcriterion.com)
+63 points by Pamar 23 hours ago | hide | 34 comments
+30.	
+History of rat control in Alberta (alberta.ca)
+82 points by matteoraso 22 hours ago | hide | 72 comments
+More
+
+
+Guidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact
+
+Search: 
